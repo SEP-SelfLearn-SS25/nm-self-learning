@@ -1,19 +1,43 @@
-# Self Learning
+# Project: SelfLearn
 
-![Build Status](https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_nm-self-learn/master/)
-![Tests](https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_nm-self-learn/master&subject=Tests&status=${numberOfTest})
-![Line Coverage](https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_nm-self-learn/master&subject=Coverage&status=${lineCoverage})
-![Lines of Code](https://jenkins-2.sse.uni-hildesheim.de/buildStatus/icon?job=Teaching_nm-self-learn/master&subject=Lines%20of%20Code&status=${lineOfCode}&color=blue)
+**Course:** Development Project D3: SelfLearn
+**Group Members:** Jay, Marie, Erik, Anush
 
-## Development
+This document is the central hub for the self-learn dashboard project, providing an overview of our goals and direct links to all key project artifacts.
 
-If you want to develop and contribute to this project, please consider reading one of these guides:
+---
 
--   For a development setup: [Development Environment](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Development-Environment)
--   Easy setup with focus on convenience: [Development Environment with Docker](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Development-Quickstart-Guide)
+## 🎯 Project Goal
 
-In this project we use contributing guidelines you can find here: https://github.com/e-Learning-by-SSE/
+Our main goal is to develop two new dashboard features for the self-learn platform:
+1.  **Student Dashboard:** To provide students with visual data on their study time and performance, along with achievements and personalized suggestions to enhance their learning journey.
+2.  **Course Creator Dashboard:** To help professors and course creators track and analyze student enrollment data to gain insights into course popularity and engagement.
 
-## Deploy the Plattform
+---
 
-Please see [the Production guide](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Development-Environment#production) and the [configuration guide](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/ENV-Configuration) for necessary environment variables.
+## 🔗 Project Artifacts
+
+### Main Documentation
+* **[[Official Project Wiki]]**
+    * *You can find more comprehensive data and decisions in the wiki page.* The Wiki contains our detailed requirements specification, role responsibilities, and the complete decision log.
+
+### External Tools
+* **🎨 Figma Designs:**
+    * [Student Dashboard](https://www.figma.com/design/U1GJQeQmbp3AcmOMozhqGE/Student-Dashboard)
+    * [Course Creator Dashboard](https://www.figma.com/design/oenFfYCgXZjbozNfgoqY63/Course-Creator-Dashboard)
+* **➡️ Project Management:** [Jira Scrum Board](https://sep-selflearn.atlassian.net/jira/software/projects/SCRUM/boards/1)
+
+### Development
+* **🔎 Proposed Changes:** [Link to current Pull Request](https://github.com/SEP-SelfLearn-SS25/nm-self-learning)
+
+---
+
+## 👥 Team Roles and Responsibilities
+
+| Role                | Main Contact Person | Second Contact Person |
+| ------------------- | ------------------- | --------------------- |
+| Requirements        | Jay                 | Marie                 |
+| Architecture        | Erik                | Jay                   |
+| Infrastructure      | Erik                | Jay                   |
+| Quality Assurance   | Anush               | Marie                 |
+| Project Management  | Marie               | Anush                 |
