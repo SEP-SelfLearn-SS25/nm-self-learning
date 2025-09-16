@@ -28,7 +28,7 @@ Our main goal is to develop two new dashboard features for the self-learn platfo
 * **➡️ Project Management:** [Jira Scrum Board](https://sep-selflearn.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
 ### Development
-* **🔎 Proposed Changes:** [Link to current Pull Request](https://github.com/SEP-SelfLearn-SS25/nm-self-learning)
+* **🔎 Development :** [forked github repo](https://github.com/SEP-SelfLearn-SS25/nm-self-learning)
 
 ---
 
